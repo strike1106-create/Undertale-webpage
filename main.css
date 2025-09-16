@@ -5,4 +5,5 @@ body{
 h1 {font-size: 400%;color: rgb(181, 3, 80);text-align: center;}
 h2 {font-size: 250%;color: rgb(181, 3, 80);}
 h3 {font-size: 200%;color: rgb(181, 3, 80);}
+
 figcaption {font-size: 75%; font-style: italic;}
